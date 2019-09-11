@@ -5,3 +5,4 @@
 **Fourth point command, long listing**
 **Hidden files**
 **I love numbers, exercise 5**
+**Welcome holberton, exercise 6**
