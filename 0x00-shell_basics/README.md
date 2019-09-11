@@ -17,3 +17,4 @@
 **Lets move, exercise 15**
 **Clean Emacs, exercise 16**
 **Tree, exercise 17**
+**Life is a series of comands, not periods**
