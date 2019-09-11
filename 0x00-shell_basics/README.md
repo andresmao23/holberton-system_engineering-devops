@@ -12,3 +12,4 @@
 **Back to the future, exercise 10**
 **Lists, exercise 11**
 **File type, exercise 12**
+**Symbolic links, exercise 13**
