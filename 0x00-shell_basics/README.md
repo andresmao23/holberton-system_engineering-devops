@@ -7,3 +7,4 @@
 **I love numbers, exercise 5**
 **Welcome holberton, exercise 6**
 **Betty in holberton, exercise 7**
+**Bye bye Betty, exercise 8**
