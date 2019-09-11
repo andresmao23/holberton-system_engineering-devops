@@ -15,3 +15,4 @@
 **Symbolic links, exercise 13**
 **Copy html files, exercise 14**
 **Lets move, exercise 15**
+**Clean Emacs, exercise 16**
