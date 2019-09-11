@@ -11,3 +11,4 @@
 **Bye bye Holberton, exercise 9**
 **Back to the future, exercise 10**
 **Lists, exercise 11**
+**File type, exercise 12**
