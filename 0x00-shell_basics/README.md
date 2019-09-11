@@ -3,3 +3,4 @@
 **Second point command, listit**
 **Third point command, change directory**
 **Fourth point command, long listing**
+**Hidden files**
