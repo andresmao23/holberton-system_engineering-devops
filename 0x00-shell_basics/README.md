@@ -4,3 +4,4 @@
 **Third point command, change directory**
 **Fourth point command, long listing**
 **Hidden files**
+**I love numbers, exercise 5**
