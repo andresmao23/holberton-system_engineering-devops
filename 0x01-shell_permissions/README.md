@@ -11,3 +11,11 @@
 **James Bond, exercise 8**
 **John Doe, exercise 9**
 **Look in the mirror, exercise 10**
+**Directories, exercise 11**
+**More directories, exercise 12**
+**Change group, exercise 13**
+**Change owner and group, exercise 14**
+**Simbolic links, exercise 15**
+**If onli, exercise 16**
+**Star wars, exercise 17**
+**RTFM, exercise 18**
