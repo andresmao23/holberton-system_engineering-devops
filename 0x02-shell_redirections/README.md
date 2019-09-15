@@ -4,4 +4,6 @@
 * Lets display a file, exercise 2
 * What about 2, exercise 3
 * Last lines of a file, exercise 4
-* I'd prefer the first ones actually
+* I'd prefer the first ones actually, exercise 5
+* Line 2, exercise 6
+* It is a good file that cuts iron without making a noise, exercise 7
