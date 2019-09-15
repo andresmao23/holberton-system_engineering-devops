@@ -23,3 +23,4 @@
 * esreveR, exercise 21
 * DJ cut killer, exercise 22
 * Empty cask make the most noise, exercise 23
+* A gif is worth ten thousand words, exercise 24
