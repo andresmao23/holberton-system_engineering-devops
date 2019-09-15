@@ -1,3 +1,7 @@
 # Week 1, Shell redirections
 * Hello world, exercise 0
-* Confused smiley
+* Confused smiley, excercise 1
+* Lets display a file, exercise 2
+* What about 2, exercise 3
+* Last lines of a file, exercise 4
+* I'd prefer the first ones actually
