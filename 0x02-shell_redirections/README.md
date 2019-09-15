@@ -21,3 +21,4 @@
 * A to Z, exercise 19
 * Without C, you would live in hiago
 * esreveR, exercise 21
+* DJ cut killer, exercise 22
