@@ -18,3 +18,4 @@
 * Whats next, exercise 16
 * I hate bins, exercise 17
 * Letters only please, exercise 18
+* A to Z, exercise 19
