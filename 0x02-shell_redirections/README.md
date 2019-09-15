@@ -8,5 +8,4 @@
 * Line 2, exercise 6
 * It is a good file that cuts iron without making a noise, exercise 7 - Not working
 * Save current state of directory,exercise 8
-* Duplicate last line, exercise 9
-* Duplicate last line, exercise 9
+* Duplicate last line, exercise 9* Duplicate last line, exercise 9
