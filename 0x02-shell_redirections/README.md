@@ -22,3 +22,4 @@
 * Without C, you would live in hiago
 * esreveR, exercise 21
 * DJ cut killer, exercise 22
+* Empty cask make the most noise, exercise 23
