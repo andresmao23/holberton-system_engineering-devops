@@ -6,5 +6,6 @@
 * Last lines of a file, exercise 4
 * I'd prefer the first ones actually, exercise 5
 * Line 2, exercise 6
-* It is a good file that cuts iron without making a noise, exercise 7
-* Save current state of directory
+* It is a good file that cuts iron without making a noise, exercise 7 - Not working
+* Save current state of directory,exercise 8
+* Duplicate last line, exercise 9* Duplicate last line, exercise 9
