@@ -10,3 +10,4 @@
 * Save current state of directory,exercise 8
 * Duplicate last line, exercise 9
 * No more javascripts, exercise 10
+* Dont just count your directories, make your directories count, exercise 11
