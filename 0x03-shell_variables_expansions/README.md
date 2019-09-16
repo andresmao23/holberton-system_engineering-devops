@@ -5,3 +5,5 @@
 * If the path be beautiful, let us not ask where it leads, exercise 3
 * Global variables, exercise 4
 * Local variables, exercise 5
+* Local variable, exercise 6
+* Global variable, exercise 7
