@@ -9,4 +9,5 @@
 * Global variable, exercise 7
 * Every addition true knowledge is an addition to human, exercise 8
 * Divide and rule, exercise 9
-* Love is anterior to file, posterior to death, initial of creation, and the exponent of breath
+* Love is anterior to file, posterior to death, initial of creation, and the exponent of breath, exercise 10
+* There are 10 types of people in the world -- Those who understand binary, and those who dont, exercise 11
