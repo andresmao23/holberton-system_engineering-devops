@@ -13,3 +13,4 @@
 * There are 10 types of people in the world -- Those who understand binary, and those who dont, exercise 11
 * Combination, exercise 12
 * Floats, exercise 13
+* Decimal to hexadecimal, 14
