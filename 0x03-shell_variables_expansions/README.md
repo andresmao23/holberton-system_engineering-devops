@@ -8,3 +8,4 @@
 * Local variable, exercise 6
 * Global variable, exercise 7
 * Every addition true knowledge is an addition to human, exercise 8
+* Divide and rule, exercise 9
